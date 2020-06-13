@@ -15,3 +15,6 @@ For this assignment, you'll create a memory game with React. This assignment wil
 
 
 * When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
+
+# How the app should look like
+![](adventuretime.gif)
